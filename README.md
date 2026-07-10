@@ -1,6 +1,4 @@
-# Project-1: Readme
 
-## Title 
 **News and Fake News Detection: Model Evaluation and Structural Bias Analysis**
 
 ## About
