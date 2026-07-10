@@ -1,4 +1,4 @@
-**News and Fake News Detection: Model Evaluation and Structural Bias Analysis**
+# News and Fake News Detection: Model Evaluation and Structural Bias Analysis
 
 ## About
 This project implements and evaluates a progressive series of NLP models for text classification. While the models achieve exceptionally high accuracy, the project includes a critical structural analysis showing how data leakage and writing-style artifacts can artificially inflate baseline performance.
@@ -14,10 +14,9 @@ A comparative Machine Learning project evaluating four different NLP approaches�
 
 ## Dataset
 * **Source:** Public News and Fake News Dataset
-* **Size:** *Hier ungefähre Zeilenanzahl eintragen, z.B. ~45,000 articles*
+* **Size:** *40,000 articles*
 * **Classes:** 0 (Fake), 1 (True)
-* **Link:** *Hier Link einfügen oder Zeile löschen*
-* **License:** Public Dataset / Academic Use
+* **License:** Public Dataset
 
 ## Model architecture
 The project progressively evaluates four distinct modeling pipelines to track performance gains:
